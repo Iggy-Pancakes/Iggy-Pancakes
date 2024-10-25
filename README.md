@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iggy-Pancakes
 - 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning pythin and java script
+- 🌱 I’m currently learning python and java script
 - 💞️ I’m looking to collaborate on anything really.
 - 📫 How to reach me
     discord: iggypancakes
